@@ -69,7 +69,7 @@ color: var(--stronger-color);
   	background-size: cover;
 }
 
-#welcome-page{
+#willkommen{
   background-color: var(--salmon-color);
   color: white;
   margin: 0 auto;
@@ -127,11 +127,11 @@ and (max-device-width : 1024px)  {
 	opacity: 0.5;
 }
 
-#agenda a{
+#ablauf a{
   text-decoration: underline;
 }
 
-#agenda a:hover{
+#ablauf a:hover{
   text-decoration: overline;
   font-weight: normal;
 }
