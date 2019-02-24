@@ -119,11 +119,11 @@ and (max-device-width : 1024px)  {
 }
 
 #parallaxM{
-	background-image: url("../img/parallaxM.jpg");
+	background-image: url("../img/parallaxM2.jpg");
 }
 
 #parallax2{
-	background-image: url("../img/parallaxM.jpg");
+	background-image: url("../img/parallaxM2.jpg");
 	opacity: 0.5;
 }
 
