@@ -90,6 +90,12 @@ color: var(--stronger-color);
 -o-background-size: cover;
 }
 
+#kissingCouple{
+  margin: 0 auto;
+  max-height: 40vh;
+  border-radius: 10px;
+}
+
 /* ===== Style for smartphone and iPad in portrait & landscape== =  */
 @media only screen 
 and (min-device-width : 320px) 
@@ -108,7 +114,7 @@ and (max-device-width : 1024px)  {
 }
 
 #parallax2{
-	background-image: url("../img/dress.jpg");
+	background-image: url("../img/parallaxM.jpg");
 	opacity: 0.5;
 }
 
