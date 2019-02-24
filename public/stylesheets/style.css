@@ -177,7 +177,7 @@ and (max-device-width : 1024px)  {
   margin: 0 auto;
 }
 
-#abc h5,p{
+#abc h5,#abc p{
   text-align: left;
 }
 
