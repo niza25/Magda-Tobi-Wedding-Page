@@ -95,12 +95,14 @@ color: var(--stronger-color);
   max-width: 40vw;
   border-radius: 10px;
   opacity: 0.7;
+  margin-bottom: 1.2em;
 }
 
 #original{
   margin: 1em auto;
   max-height: 20vw;
   border-radius: 10px;
+  margin-bottom: 1.2em;
 }
 
 /* ===== Style for smartphone and iPad in portrait & landscape== =  */
