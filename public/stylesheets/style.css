@@ -105,6 +105,20 @@ color: var(--stronger-color);
   margin-bottom: 1.2em;
 }
 
+#single{
+  margin: 1em auto;
+  max-width: 300px;
+  border-radius: 10px;
+  /* margin-bottom: 1.3em; */
+}
+/* do soemthing with it */
+#opacity{
+  margin: 1em auto;
+  max-width: 30vw;
+  border-radius: 10px;
+  margin-bottom: 1.3em;
+}
+
 /* ===== Style for smartphone and iPad in portrait & landscape== =  */
 @media only screen 
 and (min-device-width : 320px) 
@@ -174,7 +188,7 @@ and (max-device-width : 1024px)  {
 #abc{
   padding-top: 100px;
 	height: 100%;
-	padding-bottom: 10vh;
+	/* padding-bottom: 5vh; */
   line-height: 2;
   margin: 0 auto;
 }
